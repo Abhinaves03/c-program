@@ -1,2 +1,4 @@
  name  
-tt8tyy87yyyir
+git init
+git add .
+
